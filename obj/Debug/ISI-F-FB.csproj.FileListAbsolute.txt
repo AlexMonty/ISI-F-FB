@@ -1,0 +1,9 @@
+C:\Users\Alexandre\RiderProjects\ISI-F-FB\bin\Debug\ISI_F_FB.exe
+C:\Users\Alexandre\RiderProjects\ISI-F-FB\bin\Debug\ISI_F_FB.pdb
+C:\Users\Alexandre\RiderProjects\ISI-F-FB\obj\Debug\ISI-F-FB.csprojAssemblyReference.cache
+C:\Users\Alexandre\RiderProjects\ISI-F-FB\obj\Debug\ISI-F-FB.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\RiderProjects\ISI-F-FB\obj\Debug\ISI_F_FB.exe
+C:\Users\Alexandre\RiderProjects\ISI-F-FB\obj\Debug\ISI_F_FB.pdb
+C:\Users\Alexandre\RiderProjects\ISI-F-FB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexandre\RiderProjects\ISI-F-FB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alexandre\RiderProjects\ISI-F-FB\obj\Debug\ISI-F-FB.csproj.CopyComplete

@@ -1,0 +1,31 @@
+{
+  "id": 2017,
+  "area": {
+    "id": 2187,
+    "name": "Portugal"
+  },
+  "name": "Primeira Liga",
+  "code": null,
+  "plan": "TIER_ONE",
+  "currentSeason": {
+    "id": 183,
+    "startDate": "2018-08-12",
+    "endDate": "2019-05-19",
+    "currentMatchday": null
+  },
+  "seasons": [
+    {
+      "id": 183,
+      "startDate": "2018-08-12",
+      "endDate": "2019-05-19",
+      "currentMatchday": null
+    },
+    {
+      "id": 19,
+      "startDate": "2017-08-06",
+      "endDate": "2018-05-13",
+      "currentMatchday": 34
+    }
+  ],
+  "lastUpdated": "2018-06-05T00:21:58Z"
+}

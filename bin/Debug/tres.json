@@ -1,0 +1,49 @@
+{
+  "id": 2001,
+  "area": {
+    "id": 2077,
+    "name": "Europe"
+  },
+  "name": "UEFA Champions League",
+  "code": null,
+  "plan": "TIER_ONE",
+  "currentSeason": {
+    "id": 175,
+    "startDate": "2018-06-26",
+    "endDate": "2018-08-01",
+    "currentMatchday": null
+  },
+  "seasons": [
+    {
+      "id": 175,
+      "startDate": "2018-06-26",
+      "endDate": "2018-08-01",
+      "currentMatchday": null
+    },
+    {
+      "id": 2,
+      "startDate": "2017-06-27",
+      "endDate": "2018-05-26",
+      "currentMatchday": 6
+    },
+    {
+      "id": 278,
+      "startDate": null,
+      "endDate": null,
+      "currentMatchday": null
+    },
+    {
+      "id": 279,
+      "startDate": null,
+      "endDate": null,
+      "currentMatchday": null
+    },
+    {
+      "id": 280,
+      "startDate": null,
+      "endDate": null,
+      "currentMatchday": null
+    }
+  ],
+  "lastUpdated": "2018-06-05T00:06:27Z"
+}
